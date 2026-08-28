@@ -1,0 +1,1 @@
+# Projeto-Tradu-o-Bilingue-Libras-IA
