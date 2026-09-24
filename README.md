@@ -1,6 +1,6 @@
-# AiDrew
+# BilinguIA
 
-AiDrew é um projeto de tradução bidirecional entre voz e LIBRAS, integrando visão computacional, processamento de áudio e inteligência artificial para permitir comunicação entre pessoas que utilizam fala e pessoas que utilizam LIBRAS.
+BilinguIA é um projeto de tradução bidirecional entre voz e LIBRAS, integrando visão computacional, processamento de áudio e inteligência artificial para permitir comunicação entre pessoas que utilizam fala e pessoas que utilizam LIBRAS.
 
 A proposta principal do projeto é transformar a comunicação em um fluxo multimodal capaz de:
 - captar fala e convertê-la em texto;
